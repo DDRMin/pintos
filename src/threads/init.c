@@ -39,6 +39,7 @@
 #endif
 
 /* Page directory with kernel mappings only. */
+// Hello comment
 uint32_t *init_page_dir;
 
 #ifdef FILESYS
